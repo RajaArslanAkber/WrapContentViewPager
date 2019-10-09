@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Height Wraping Pager</string>
+    <string name="action_settings">Settings</string>
+    <string name="page_1">Page 1</string>
+    <string name="page_2">Page 2</string>
+    <string name="page_3">Page 3</string>
+    <string name="page_4">Page 4</string>
+    <string name="page_5">Page 5</string>
+    <string name="page_6">Page 6</string>
+    <string name="expires_in">Expires In</string>
+</resources>
